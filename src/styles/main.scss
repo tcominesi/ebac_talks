@@ -1,15 +1,12 @@
+@use 'hero';
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Avenir, sans-serif;
     list-style: none;
-}
-
-@font-face {
-    font-family: Avenir;
-    src: url(../../assets/fonts/Avenir-Regular.woff2);
-    font-weight: 400;
+    color: #fff;
 }
 
 @font-face {
@@ -18,6 +15,16 @@
     font-weight: 700;
 }
 
-body {
-    background-color: red;
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+
+    @media (max-width: 640px){
+        max-width: 80%;
+    }
+
+    @media (max-width: 1024px){
+        max-width: 90%;
+    }
 }
