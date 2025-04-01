@@ -1,4 +1,8 @@
 @use 'hero';
+@use 'componentes/infos_bar';
+@use 'componentes/buttons';
+@use 'event';
+@use 'variables';
 
 * {
     margin: 0;
@@ -6,7 +10,7 @@
     box-sizing: border-box;
     font-family: Avenir, sans-serif;
     list-style: none;
-    color: #fff;
+    color: variables.$textColor;
 }
 
 @font-face {
