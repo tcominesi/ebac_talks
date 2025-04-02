@@ -18,7 +18,7 @@
 73C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\.bin\svgo133879086898008259 0
 114C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\node-abi\node_modules\semver\functions\rcompare.js133879092945375634 0
 88C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\weak-lru-cache\README.md133879075380384266 0
-55C:\curso_ebac_frontend\exercicio_festa_aniversario\dist133880970442953946 1
+55C:\curso_ebac_frontend\exercicio_festa_aniversario\dist133880983017982234 1
 121C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\style.js133879086858798832 0
 129C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gmappedfile.h133117882010000000 0
 95C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\caniuse-lite\data\regions\SZ.js133879075450211223 0
@@ -42,14 +42,14 @@
 61C:\curso_ebac_frontend\exercicio_festa_aniversario\.gitignore133879106696551877 0
 116C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\expat_config.h133117882010000000 0
 119C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133879086884417729 0
-63C:\curso_ebac_frontend\exercicio_festa_aniversario\package.json133880086957467278 0
+63C:\curso_ebac_frontend\exercicio_festa_aniversario\package.json133880973716446497 0
 127C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133879075397723849 0
 137C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gsimpleproxyresolver.h133117882010000000 0
 104C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@swc\legacy-helpers\src\_export_star.mjs133879086871295844 0
 115C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\format.h133117882010000000 0
 95C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\transformer-raw\LICENSE133879086853643793 0
 99C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\svgo\lib\svgo\css-select-adapter.js133879086846457996 0
-68C:\curso_ebac_frontend\exercicio_festa_aniversario\package-lock.json133879093066860156 0
+68C:\curso_ebac_frontend\exercicio_festa_aniversario\package-lock.json133880973884820892 0
 141C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133879086854581082 0
 73C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\is-number133880947020146034 1
 116C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml133880947123736235 1
@@ -522,7 +522,7 @@
 131C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-bzip.h133117882010000000 0
 120C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-select\README.md133879086833960959 0
 79C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\ieee754\LICENSE133879092936870800 0
-99C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\exercicio_festa_aniversario.59712999.js.map133880970442217822 0
+99C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\exercicio_festa_aniversario.59712999.js.map133880983017982234 0
 129C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdbusmessage.h133117882010000000 0
 136C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-iochannel.h133117882010000000 0
 74C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\json5\dist133880947023270540 1
@@ -4189,7 +4189,7 @@
 102C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\caniuse-lite\data\features\auxclick.js133879075407409016 0
 87C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\js-yaml\dist\js-yaml.js133879075388975945 0
 91C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\js-yaml\dist\js-yaml.min.js133879075390069433 0
-63C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\scripts133880970442385857 1
+63C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\scripts133880983017982234 1
 86C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\js-yaml\bin\js-yaml.js133879075386632760 0
 91C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\logger\package.json133879086845833150 0
 126C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Rule.js133879086845989354 0
@@ -4210,7 +4210,7 @@
 84C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\is-json\package.json133879075372359856 0
 114C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDO.cjs133879086848801182 0
 76C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\is-json\test133880947019989822 1
-75C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\scripts\main.js.map133880970442217822 0
+75C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\scripts\main.js.map133880983017982234 0
 85C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\is-json\test\index.js133879075378353497 0
 80C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\is-glob\index.js133879075373636896 0
 79C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\is-glob\LICENSE133879075372892616 0
@@ -6621,7 +6621,7 @@
 88C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@swc\helpers\esm\_set.js133879086879262707 0
 111C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js133879086827868652 0
 100C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@swc\helpers\esm\_sliced_to_array.js133879086879418922 0
-71C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\scripts\main.js133880970442217822 0
+71C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\scripts\main.js133880983017826033 0
 101C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@parcel\workers\test\cpuCount.test.js133879086833492317 0
 100C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@swc\helpers\esm\_to_property_key.js133879086880043770 0
 96C:\curso_ebac_frontend\exercicio_festa_aniversario\node_modules\@swc\helpers\esm\_ts_decorate.js133879086880199981 0
@@ -7776,7 +7776,7 @@
 73C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\data.b5acb70a.png133880963264628771 0
 78C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\ebac_talks.59712999.js133880090677326163 0
 82C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\ebac_talks.59712999.js.map133880090677794813 0
-95C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\exercicio_festa_aniversario.59712999.js133880970442052188 0
+95C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\exercicio_festa_aniversario.59712999.js133880983017826033 0
 75C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\festa1.96c7bc3d.jpg133880970441878729 0
 75C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\festa2.d962756d.jpg133880970441878729 0
 77C:\curso_ebac_frontend\exercicio_festa_aniversario\dist\frontend.cb233274.png133880087310916383 0
